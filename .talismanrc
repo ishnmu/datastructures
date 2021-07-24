@@ -1,0 +1,3 @@
+fileignoreconfig:
+- filename: arrays/go.sum
+  checksum: d79df10359ae610881e88738dc5b08519a4e939a173432945b500c7391ccde84
