@@ -1,3 +1,5 @@
 fileignoreconfig:
+- filename: README.md
+  checksum: 7c15f47aacad94913e245485050c06e73bcaf4a7f1ee9101449b24fbdd550355
 - filename: arrays/go.sum
   checksum: d79df10359ae610881e88738dc5b08519a4e939a173432945b500c7391ccde84
