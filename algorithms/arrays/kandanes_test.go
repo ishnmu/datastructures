@@ -1,4 +1,4 @@
-package arrays
+package algotithms_arrays
 
 import (
 	"testing"

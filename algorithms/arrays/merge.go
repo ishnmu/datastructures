@@ -1,4 +1,4 @@
-package arrays
+package algotithms_arrays
 
 func Merge(array1 []int, array2 []int) []int {
 	mergedSortedList := make([]int, (len(array1) + len(array2)))

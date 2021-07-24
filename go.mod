@@ -1,4 +1,4 @@
-module algorithms
+module datastructures-algorithms
 
 go 1.16
 
