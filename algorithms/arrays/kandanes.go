@@ -1,4 +1,4 @@
-package main
+package arrays
 
 func FindMaxSumOfContiguousSubarry(array []int) int {
 	totalSum := 0
